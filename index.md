@@ -1,21 +1,20 @@
-## The Jack Rawlings Blog
+# The Jack Rawlings Blog
+
+
 **This is the beginning of my blogging journey. I've been thinking about it for a while so thought... why the hell not?**
 
-**Why should you stick around?**
-I 
+# Why should you stick around?
+I want to provide potential readers with viewpoints and perspectives that are different and intrespectively developed. Since I was 16 I have kept a journal and developed a reflective practive that helps me be successful.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-Syntax highlighted code block
+Everyone has a different definition of what success means to them, if you take one thing away from this blog that takes you a step closer to *your success* then this whole process is worth it.
 
-# This is my new blog
-## I'm learning this from scratch
-### Bear with me
+One thing I'll look to explore aswell... what is success? Is it important? And who gives a shit? 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Want to reach out?
+
+- (**Twiitter**) [twitter.com/jack_rawlings_]
+
 
 **Bold** and _Italic_ and `Code` text
 
