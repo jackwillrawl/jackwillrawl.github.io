@@ -1,14 +1,10 @@
-## Welcome to GitHub Pages
+## The Jack Rawlings Blog
+**This is the beginning of my blogging journey. I've been thinking about it for a while so thought... why the hell not?**
 
-You can use the [editor on GitHub](https://github.com/jackwillrawl/jackwillrawl.github.oi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+**Why should you stick around?**
+I 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 Syntax highlighted code block
 
 # This is my new blog
