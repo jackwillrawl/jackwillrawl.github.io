@@ -13,7 +13,7 @@ One thing I'll look to explore aswell... what is success? Is it important? And w
 
 ### Want to reach out?
 
-- (**Twiitter**) [twitter.com/jack_rawlings_]
+- (**Twitter**) [twitter.com/jack_rawlings_]
 
 
 **Bold** and _Italic_ and `Code` text
