@@ -1,6 +1,4 @@
----
-layout: default
-title: The Jack Rawlings Blog
+# The Jack Rawlings Blog
 
 **This is the beginning of my blogging journey. I've been thinking about it for a while so thought... why the hell not?**
 
