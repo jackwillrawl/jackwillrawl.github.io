@@ -1,26 +1,18 @@
-# The Jack Rawlings Blog
+# Introduction
 
-**This is the beginning of my blogging journey. I've been thinking about it for a while so thought... why the hell not?**
+Reading and writing are two of my biggest hobbies. I enjoy exploring ideas and perspectives and how they alter my view on the world. Reflection and intrespective practices have truely changed my life.
+I want to start sharing such things. If it helps someone then brilliant. If it doesn't? Well at least I learnt how to build a website.
 
-# Why should you stick around?
-I want to provide potential readers with viewpoints and perspectives that are different and intrespectively developed. Since I was 16 I have kept a journal and developed a reflective practive that helps me be successful.
+## Inital Thinking
+There will be no set subjects within the scope of this blog. Some posts might be 
+
+
+## Table of contents:
+
 
 Everyone has a different definition of what success means to them, if you take one thing away from this blog that takes you a step closer to *your success* then this whole process is worth it.
 
 One thing I'll look to explore aswell... what is success? Is it important? And who gives a shit? 
----
-Hello world
----
-<!DOCTYPE html>
-<html> 
-  <head> This is new
-    <meta charset="utf-5">
-    <title>Home</title>
-  </head>
-  <body>
-    <h1>"Hello World!"</h1>
-  </body> As we step out into a new world
-</html> 
 
 
 
