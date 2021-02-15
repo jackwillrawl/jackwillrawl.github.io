@@ -9,6 +9,21 @@ I want to provide potential readers with viewpoints and perspectives that are di
 Everyone has a different definition of what success means to them, if you take one thing away from this blog that takes you a step closer to *your success* then this whole process is worth it.
 
 One thing I'll look to explore aswell... what is success? Is it important? And who gives a shit? 
+---
+Hello world
+---
+<!DOCTYPE html>
+<html> 
+  <head> This is new
+    <meta charset="utf-5">
+    <title>Home</title>
+  </head>
+  <body>
+    <h1>"Hello World!"</h1>
+  </body> As we step out into a new world
+</html> 
+
+
 
 
 ### Want to reach out?
@@ -31,4 +46,17 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+---
 
+<!DOCTYPE html>
+<html>
+  <head> This is new
+    <meta charset="utf-8">
+    <title>Home</title>
+  </head>
+  <body>
+    <h1>{{ "Hello World!" | downcase }}</h1>
+  </body>
+</html>
+ 
