@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Jack Rawlings
 description: I am beginning my blogging journey
+plugins:
+  - jemoji
